@@ -1,0 +1,7 @@
+v 4
+file . "../src/gate_or.vhd" "66f1fe8e7ea335af8271b88c3c5ae5e4e6add6ec" "20221226200737.236":
+  entity gate_or at 3( 29) + 0 on 15;
+  architecture behavioral of gate_or at 18( 263) + 0 on 16;
+file . "../tb/gate_ortb.vhd" "04743b873e2c9225c886226a74baab6f61f1be21" "20221226200737.237":
+  entity gate_ortb at 3( 15) + 0 on 17;
+  architecture behavioral of gate_ortb at 13( 138) + 0 on 18;

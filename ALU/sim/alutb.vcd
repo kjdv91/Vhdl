@@ -1,0 +1,85 @@
+$date
+  Tue Dec 27 18:24:21 2022
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module alutb $end
+$var reg 8 ! xx[7:0] $end
+$var reg 8 " yy[7:0] $end
+$var reg 2 # operacion[1:0] $end
+$var reg 8 $ resultado[7:0] $end
+$scope module alu1 $end
+$var reg 8 % x[7:0] $end
+$var reg 8 & y[7:0] $end
+$var reg 2 ' opera[1:0] $end
+$var reg 8 ( result[7:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b00001000 !
+b00000100 "
+b00 #
+b00001100 $
+b00001000 %
+b00000100 &
+b00 '
+b00001100 (
+#100000000
+b01 #
+b00000000 $
+b01 '
+b00000000 (
+#200000000
+b10 #
+b00001000 $
+b10 '
+b00001000 (
+#300000000
+b11 #
+b00000100 $
+b11 '
+b00000100 (
+#400000000
+b00 #
+b00001100 $
+b00 '
+b00001100 (
+#500000000
+b01 #
+b00000000 $
+b01 '
+b00000000 (
+#600000000
+b10 #
+b00001000 $
+b10 '
+b00001000 (
+#700000000
+b11 #
+b00000100 $
+b11 '
+b00000100 (
+#800000000
+b00 #
+b00001100 $
+b00 '
+b00001100 (
+#900000000
+b01 #
+b00000000 $
+b01 '
+b00000000 (
+#1000000000
+b10 #
+b00001000 $
+b10 '
+b00001000 (

@@ -1,0 +1,7 @@
+v 4
+file . "../tb/alutb.vhd" "4d2283bd3e55436aa42a3fd75525f2e3e4a43775" "20221228022420.913":
+  entity alutb at 1( 0) + 0 on 13;
+  architecture behavioral of alutb at 7( 101) + 0 on 14;
+file . "../src/alu.vhd" "f9064bb3e4bb01bfb3410ae0dff12911c6f4f525" "20221228022420.912":
+  entity alu at 2( 14) + 0 on 11;
+  architecture behavioral of alu at 13( 317) + 0 on 12;
